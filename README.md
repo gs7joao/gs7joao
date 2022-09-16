@@ -8,38 +8,21 @@ Cursando Segurança da Informação na **Universidade Anhembi Morumbi**.
 
 Trabalho com desenvolvimento e manutenção de software na [Radiusnet](https://www.radius.net.br/), utilizando **PHP (Yii Framework) , JavaScript (ExtJs 4), MySql.**
 
-Conhecimento em estrutura de sites, lojas virtuais com foco em **PHP, MYSQL, HTML, Jquery, Ajax**
+Conhecimento em estrutura de sites, lojas virtuais com foco em **PHP, MYSQL, HTML, Jquery, Ajax.**
 
 
 ###  Tenho Experiência   🚀
 
-<div>
-  <img src="./images/php.png" width="35" title="PHP"/> &nbsp;
-  <img src="./images/mysql.png" width="50" title="MySQL"/> &nbsp;
-  <img src="./images/html.png" width="25" title="HTML5"/> &nbsp;
-  <img src="./images/css.png" width="25" title="CSS3"/> &nbsp;
-  <img src="./images/bootstrap-stack.png" width="35" title="Bootstrap"/> &nbsp;
-  <img src="./images/js.png" width="25" title="JavaScript"/> &nbsp;
-  <img src="./images/logoJquery.png" width="28" title="Jquery"/> &nbsp;
-  <img src="./images/git.png" width="25" title="Git"/> &nbsp;
-  <img src="./images/github.png" width="25" title="Github"/> &nbsp;
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,html,css,bootstrap,js,jquery,git,github)](https://skills.thijs.gg)
+
 
 ###  Estou Estudando   :book:
 
-<div>
-  <img src="./images/js.png" width="25" title="JavaScript"/> &nbsp;
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
 
 ###  Tenho Interesse   :star:
 
-<div>
-  <img src="./images/laravelNew.png" width="25" title="Laravel"/> &nbsp;
-  <img src="./images/docker.png" width="40" title="Docker"/> &nbsp;
-  <img src="./images/node.png" width="100" title="Node JS"/> &nbsp;
-  <img src="./images/react.png" width="25" title="ReactJS / ReactNative"/> &nbsp;
-  <img src="./images/typescript.png" width="25" title="TypeScript"/> &nbsp;
-</div>
+[![My Skills](https://skills.thijs.gg/icons?i=laravel,nodejs,react,typescript,docker)](https://skills.thijs.gg)
 
 
 <br />
