@@ -18,11 +18,11 @@ Conhecimento em estrutura de sites, lojas virtuais com foco em **PHP, MYSQL, HTM
 
 ###  Estou Estudando   :book:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react)](https://skills.thijs.gg)
 
 ###  Tenho Interesse   :star:
 
-[![My Skills](https://skills.thijs.gg/icons?i=laravel,nodejs,react,typescript,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=laravel,nodejs,typescript,docker)](https://skills.thijs.gg)
 
 
 <br />
