@@ -13,7 +13,7 @@ Conhecimento em estrutura de sites, lojas virtuais com foco em **PHP, MYSQL, HTM
 
 ###  Tenho Experiência   🚀
 
-[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,html,css,bootstrap,js,jquery,git,github)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=php,mysql,html,css,bootstrap,js,jquery,git,github,postman)](https://skills.thijs.gg)
 
 
 ###  Estou Estudando   :book:
