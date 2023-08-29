@@ -1,14 +1,14 @@
 ### Sobre o JP!
 
-**Buscando ser desenvolvedor Full Stack**! 
+**Buscando ser Desenvolvedor Full Stack**! 
 
-Formado em Técnico em informática pela **E.M Dr. Leandro Franceschini.**
+Formado em Técnico em Informática no **E.M Dr. Leandro Franceschini**.
 
-Cursando Segurança da Informação na **Universidade Anhembi Morumbi**.
+Formado Segurança da Informação na **Universidade Anhembi Morumbi**.
 
-Trabalho com desenvolvimento e manutenção de software na [Radiusnet](https://www.radius.net.br/), utilizando **PHP (Yii Framework) , JavaScript (ExtJs 4), MySql.**
+Cursando Técnico de Desenvolvimento de Sistemas na Etec.
 
-Conhecimento em estrutura de sites, lojas virtuais com foco em **PHP, MYSQL, HTML, Jquery, Ajax.**
+Atualmente trabalho como **Analista de Desenvolvimento** de Software com foco em gerenciamento para ISPs na empresa  [Radiusnet](https://www.radius.net.br/) .
 
 
 ###  Tenho Experiência   🚀
