@@ -1,16 +1,13 @@
-### About JP!
+## Sobre mim
 
-**Aspiring Full Stack Developer!**
+Desenvolvedor Full Stack em formação!
 
-Graduated in Technical Informatics from **E.M. Dr. Leandro Franceschini.**
+Sou formado em Informática pela E.M. Dr. Leandro Franceschini e graduado em Segurança da Informação pela Universidade Anhembi Morumbi.
 
-Graduated in Information Security from **Anhembi Morumbi University.**
-
-I currently work as a **Software Development Analyst** focusing on management solutions for ISPs at [Radiusnet](https://www.radius.net.br/).
-My responsibilities include analyzing new demands, tracking team activities, fostering teamwork, leading teams, maintaining company-employee relations, implementing new system features, correcting scripts, and improving and optimizing software.
+Atualmente, atuo como Analista de Desenvolvimento de Software na Radiusnet, com foco em soluções de gestão para provedores de internet (ISPs). No dia a dia, trabalho com análise de novas demandas, acompanhamento das atividades da equipe, colaboração entre times, liderança, relacionamento entre empresa e colaboradores, além da implementação de novas funcionalidades, correção de scripts e melhorias contínuas para otimização dos sistemas.
 
 <br />
 
-**Connect with me on LinkedIn!**
+Conecte-se comigo no LinkedIn!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jo%C3%A3o-pedro-64b221170/)
